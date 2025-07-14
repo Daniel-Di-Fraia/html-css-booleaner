@@ -1,5 +1,38 @@
-.container {
-    background-image: url('../img/pattern.png');
-    background-color: #4ea1ff;
-
+/* generics */
+body{
+    margin:0;
 }
+.text-gray{
+    color:gray;
+}
+.text-small{
+    font-size:12px;
+}
+
+.container {
+     background-color: #4ea1ff;
+     height: 120px;
+     background-image: url('../img/pattern.png');
+     background-size: 470px;
+    }
+
+#logo{
+    width: 230px;
+    height: 163px;
+}
+
+h1{
+    font-size: 41px;
+    margin:5px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #00ced1;
+}
+
+aside{
+    font-size: 20px;
+}
+
