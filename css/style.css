@@ -67,7 +67,7 @@ table{
 th{
     text-align:left;
     background-color: #00A5DD;
-495ed;
+
     color:white;
     width: 50px;   
 }
@@ -76,6 +76,29 @@ tr{
     background-color:#8BE4FF;        
 }
 
+/* footer */
+.img1{
+    background-image: url('../img/monitor.jpg');
+    background-size: 300px 246px;
+    width: 257px;
+    height: 223px;
+    background-repeat: no-repeat;
+    color:white;
+    font-size: 23px;
+    font-weight: 1000;
+    
+}
+
+.img2{
+    background-image: url('../img/graph.jpg');
+    background-size: 300px 246px;
+    width: 257px;
+    height: 223px;
+    background-repeat: no-repeat;
+    color:white;
+    font-size: 23px;
+    font-weight: 1000;
+}
 
 
 
