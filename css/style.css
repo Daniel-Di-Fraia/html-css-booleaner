@@ -15,7 +15,7 @@ body{
 }
 
 
-
+/* intestazione pagina */
 .container {
      background-color: #4ea1ff;
      height: 120px;
@@ -27,11 +27,11 @@ body{
     width: 230px;
     height: 163px;
 }
-
+/* titolo articolo */
 h1{
     font-size: 41px;
 }
-
+/* informazioni */
 aside{
     font-size: 20px;
 }
@@ -40,11 +40,11 @@ a{
     text-decoration: none;
     color: #00ced1;
 }
-
+/* paragrafo articolo */
 p{
     width: 50%;
 }
-
+/* lista articolo */
 ul{
     padding-inline-start: 6px;
     list-style-position: inside;
