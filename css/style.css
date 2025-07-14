@@ -45,4 +45,10 @@ p{
     width: 50%;
 }
 
+ul{
+    padding-inline-start: 6px;
+    list-style-position: inside;
+}
+
+
 
